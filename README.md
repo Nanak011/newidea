@@ -1,0 +1,2 @@
+# newidea
+for learning
